@@ -43,7 +43,7 @@ class User {
       } else if (user1.age < user2.age) {
         return `${user1.firstName} è più giovane di ${user2.firstName}`
       } else {
-        return `${user1.firstName} ha la stessa età di ${user2.firstName}`
+          return `${user1.firstName} ha la stessa età di ${user2.firstName}`
       }
     }
   }
