@@ -50,7 +50,7 @@ class User {
   
   const users = [ 
     new User("Matteo", "Vacca", 23, "Cagliari"),
-    new User("Andrea", "Dehdqd", 28, "Oristano")
+    new User("Gigi", "Grussu", 28, "Oristano")
   ]
   
   
